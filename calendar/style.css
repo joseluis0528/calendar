@@ -1,0 +1,64 @@
+table {
+    width: 600px;
+    height: 400px;
+    text-align: center;
+    border: 2px solid #4B9CD3;
+    margin-top: auto;
+    table-layout: fixed;
+}
+
+.month {
+    text-align: center;
+    background-color: #4B9CD3;
+    height: 30px;
+}
+
+.weekdays {
+    background-color: #6699CC;
+    height: 10px;
+}
+
+.day-of-month {
+    height:50px;
+}
+
+caption {
+    caption-side: bottom;
+    text-align: left;
+    font-size: small;
+    padding-top: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    /* background-color: pink; */
+}
+
+tbody {
+    background-color: #e4f0f5;
+  }
+
+.sunday-column {
+    color: red;
+}
+
+.saturday-column {
+    color: grey;
+}
+
+h5 {
+    text-align: center;
+}
+
+ul {
+    padding-top: 4%;
+    margin-top: 5px;
+}
+
+body {
+    background-color: #F0F8FF;
+}
