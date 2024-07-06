@@ -13,7 +13,7 @@ git clone git@github.com:joseluis0528/calendar.git
 4. Finally, open january.html using the DOM.
 
 ```bash
-open index.html
+open january.html
 ```
 
 ## Usage
